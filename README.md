@@ -2,7 +2,7 @@
 Excel dashboard analyzing BMW sales 2010–2024
 # BMW Sales Dashboard (2010–2024)
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](bmw_sales.png)
 
 This project is an Excel-based dashboard analyzing **BMW sales data from 2010 to 2024**. It includes cleaned data, calculated metrics, pivot tables, and interactive pivot charts.
 
