@@ -1,6 +1,5 @@
 # BMW-Sales-Dashboard-2010-2024-
 Excel dashboard analyzing BMW sales 2010–2024
-# BMW Sales Dashboard (2010–2024)
 
 ![Dashboard Screenshot](bmw_sales.png)
 
